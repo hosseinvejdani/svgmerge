@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 svgutils = "*"
+cairosvg = "*"
 
 [dev-packages]
 autopep8 = "*"
